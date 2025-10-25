@@ -1,6 +1,4 @@
-# Font Text Missing Char<br>
-
-# 字体缺失字符差集分析
+# Font Text Missing Char<br>字体缺失字符差集分析
 
 ## 功能简介<br>Introduction
 
