@@ -14,6 +14,10 @@
 
   Output a list (TXT, saved on the Desktop) of missing characters in the font.
 
+在[Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases)页面下载` Font-Text-Missing-Char.exe`（或[百度网盘](https://pan.baidu.com/s/1Vcq8a1KP7nb8ddWgzD4QPQ)）。
+
+Download `Font-Text-Missing-Char.exe` from the [Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases) page.
+
 
 
 ## 著作权声明<br>Copyright
