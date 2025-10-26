@@ -3,7 +3,7 @@
 ## 简介<br>Introduction
 
 ### 功能<br>Function
-
+![界面](P.png)
 - 输入指定文本文件（TXT）与字体文件（TTF、OTF）。
 
   Input specified text file (TXT) and font file (TTF/OTF).
