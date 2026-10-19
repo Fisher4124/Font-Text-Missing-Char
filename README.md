@@ -18,9 +18,9 @@
 
 ### 下载<br>Download
 
-在[Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases)页面下载` Font-Text-Missing-Char.exe`（或[百度网盘](https://pan.baidu.com/s/1Vcq8a1KP7nb8ddWgzD4QPQ)）。
+在[Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases)页面下载` Font-Text-Missing-Char.py`（Python脚本）。
 
-Download `Font-Text-Missing-Char.exe` from the [Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases) page.
+Download `Font-Text-Missing-Char.py` from the [Releases](https://github.com/Fisher4124/Font-Text-Missing-Char/releases) page.
 
 ### 汉字字表<br>Hanzi TXTs
 
